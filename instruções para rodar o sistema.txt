@@ -1,2 +1,2 @@
-Para a execução correta precisa ter o xampp instalado na maquina.
-link para donload: https://www.apachefriends.org/pt_br/index.html
+Para a execuÃ§Ã£o correta precisa ter o xampp instalado na maquina.
+Link para download: https://www.apachefriends.org/pt_br/index.html
